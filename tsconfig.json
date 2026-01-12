@@ -31,6 +31,7 @@
     // "noUnusedParameters": true,
     // "noFallthroughCasesInSwitch": true,
     // "noPropertyAccessFromIndexSignature": true,
+    "noEmitOnError": true, // 編譯錯誤時不生成任何文件
 
     // Recommended Options
     "strict": true,
